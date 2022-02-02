@@ -7,13 +7,13 @@
 uniquedouble(int64)
 }
 \arguments{
-\item{int64}{input value (normally used with 64-bit integers, but also works with other types)}
+\item{int64}{integer or vector of integers; normally used with 64-bit integers, but also works with other types.}
 }
 \value{
 Returns a double floating point value.
 }
 \description{
-Turns a 64-bit integers into unique doubles for faster comparison. The output double values are completely different from the input values.
+Turns 64-bit integers into unique doubles for faster comparison. The output double values are completely different from the input values.
 }
 \examples{
 

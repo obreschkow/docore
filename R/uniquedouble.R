@@ -2,9 +2,9 @@
 #'
 #' @importFrom bit64 as.integer64
 #'
-#' @description Turns a 64-bit integers into unique doubles for faster comparison. The output double values are completely different from the input values.
+#' @description Turns 64-bit integers into unique doubles for faster comparison. The output double values are completely different from the input values.
 #'
-#' @param int64 input value (normally used with 64-bit integers, but also works with other types)
+#' @param int64 integer or vector of integers; normally used with 64-bit integers, but also works with other types.
 #'
 #' @return Returns a double floating point value.
 #'

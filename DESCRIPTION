@@ -1,7 +1,7 @@
 Package: docore
 Type: Package
-Title: Utility Functions for Scientific Coding
-Version: 1.0
+Title: Utility Functions for Scientific Data Analysis
+Version: 1.1
 Author: Danail Obreschkow
 Maintainer: Danail Obreschkow <danail.obreschkow@gmail.com>
 Description: Basic routines used in scientific coding, such as timing routines, vector/array handing functions and I/O support routines.

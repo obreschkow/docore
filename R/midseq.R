@@ -1,6 +1,6 @@
 #' Mid-points of regular grid
 #'
-#' @description compute the mid-point positions of a one-dimensional regular grid of n equal intervals.
+#' @description Compute the mid-point positions of a one-dimensional regular grid of n equal intervals.
 #'
 #' @param min left boundary of first bin
 #' @param max right boundary of last bin

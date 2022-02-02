@@ -17,7 +17,7 @@ midseq(min, max, n = 1)
 vector of mid points
 }
 \description{
-compute the mid-point positions of a one-dimensional regular grid of n equal intervals.
+Compute the mid-point positions of a one-dimensional regular grid of n equal intervals.
 }
 \author{
 Danail Obreschkow
